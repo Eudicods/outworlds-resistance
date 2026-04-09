@@ -1,0 +1,36 @@
+#icon-jeremy-l-thompson h1:first-of-type {
+    text-align: center !important;
+}
+
+#icon-jeremy-l-thompson h1:first-of-type a.reference {
+    border-bottom: none !important;
+}
+
+#icon-jeremy-l-thompson h1:first-of-type a.reference:hover {
+    border-bottom: none !important;
+}
+
+#icon-jeremy-l-thompson h1:first-of-type img {
+    margin-bottom: -11px;
+}
+
+section section, p, .line-block {
+    padding: 0 .5em;
+}
+
+div.body {
+    min-width: 100px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+.header-left {
+    height: 0;
+    width: 0;
+}
+
+.ow-image {
+    background-color: white;
+}
