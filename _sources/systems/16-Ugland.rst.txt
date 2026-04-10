@@ -9,6 +9,8 @@ This world is considered abandoned.
   :align: center
   :class: ow-image
 
+Status: Abandoned world
+
 * Sarna: `Ugland article <https://www.sarna.net/wiki/Ugland>`_
 * Planet Type: Terrestrial
 * Diameter: 11.700,0 km

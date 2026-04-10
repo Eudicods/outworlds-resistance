@@ -9,6 +9,8 @@ Trimaldix was one of the worlds that left the Outworlds Alliance after Clan Snow
   :align: center
   :class: ow-image
 
+Status: Seceded
+
 * Sarna: `Trimaldix article <https://www.sarna.net/wiki/Trimaldix>`_
 * Planet Type: Terrestrial
 * Diameter: 12.600,0 km

@@ -20,4 +20,5 @@
    :caption: Contents:
 
    systems/index
+   intelligence/index
    license

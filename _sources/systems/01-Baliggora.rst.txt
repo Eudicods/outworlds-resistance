@@ -9,6 +9,8 @@ Baliggora was one of the worlds that left the Outworlds Alliance after Clan Snow
   :align: center
   :class: ow-image
 
+Status: Seceded
+
 * Sarna: `Baliggora article <https://www.sarna.net/wiki/Baliggora>`_
 * Planet Type: Terrestrial
 * Diameter: 10.800,0 km

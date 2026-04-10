@@ -12,6 +12,10 @@ The facility is attempting to rebuild its aerospace fighter training program.
   :align: center
   :class: ow-image
 
+Status: Seceded
+
+Bonus: *Train* at half cost
+
 * Sarna: `Ferris article <https://www.sarna.net/wiki/Ferris_(OA)>`_
 * Planet Type: Terrestrial
 * Diameter: 14.101,0 km
