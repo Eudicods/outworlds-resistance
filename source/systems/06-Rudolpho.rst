@@ -10,6 +10,7 @@ The Second Alliance Air Wing command regiment was stationed on Rudolpho until it
   :class: ow-image
 
 Status: Raven Alliance held
+    * `2nd Alliance Air Wing <https://www.sarna.net/wiki/2nd_Alliance_Air_Wing>`_ (Deployed)
 
 * Sarna: `Rudolpho article <https://www.sarna.net/wiki/Rudolpho>`_
 * Planet Type: Terrestrial
