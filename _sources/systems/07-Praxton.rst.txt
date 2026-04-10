@@ -13,6 +13,7 @@ He was being monitored by the Raven Watch for his ties to anti-Raven groups.
   :class: ow-image
 
 Status: Raven Alliance held
+    * `1st Alliance Air Wing <https://www.sarna.net/wiki/1st_Alliance_Air_Wing>`_
 
 * Sarna: `Praxton article <https://www.sarna.net/wiki/Praxton>`_
 * Planet Type: Terrestrial
