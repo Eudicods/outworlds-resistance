@@ -9,6 +9,11 @@ The Alliance Naval Star, 3rd Raven Auxiliaries, and 11th Raven Wing Cluster are 
   :align: center
   :class: ow-image
 
+Status: Raven Alliance held
+    * `Alliance Naval Star <https://www.sarna.net/wiki/Alliance_Naval_Star_(Clan_Snow_Raven)>`_
+    * `3rd Raven Auxiliaries <https://www.sarna.net/wiki/Third_Raven_Auxiliaries_(Clan_Snow_Raven)>`_
+    * `11th Raven Wing Cluster <https://www.sarna.net/wiki/Eleventh_Raven_Wing_(Clan_Snow_Raven)>`_
+
 * Sarna: `Hazelhurst article <https://www.sarna.net/wiki/Hazelhurst>`_
 * Planet Type: Terrestrial
 * Diameter: 10.800,0 km

@@ -2,12 +2,16 @@ Loparri
 ------------------------------------
 
 Loparri was targeted by General Forlough for seek-and-destroy missions to weaken industry and population centers.
+`Eustace Avellar <https://www.sarna.net/wiki/Eustace_Avellar>`_ disappeared after visiting  Loparri and Paxton on his morale building tour.
+He was being monitored by the Raven Watch for his ties to anti-Raven groups. 
 
 .. image:: ../img/Loparri_3151.webp
   :width: 75%
   :alt: Loparri map
   :align: center
   :class: ow-image
+
+Status: Raven Alliance held
 
 * Sarna: `Loparri article <https://www.sarna.net/wiki/Loparri>`_
 * Planet Type: Terrestrial

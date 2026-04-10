@@ -4,12 +4,16 @@ Tellman
 The First Alliance Air Wing second and third regiments are stationed on Praxton.
 
 Tellman IV is the site of the Day of Vengeance, an important battle in the Reunification War where the Pitcairn Legion defeated General Forlough's V Corps and forced them to retreat.
+`Eustace Avellar <https://www.sarna.net/wiki/Eustace_Avellar>`_ disappeared en-route to Tellman on his morale building tour.
+He was being monitored by the Raven Watch for his ties to anti-Raven groups.
 
 .. image:: ../img/Tellman_3151.webp
   :width: 75%
   :alt: Tellman map
   :align: center
   :class: ow-image
+
+Status: Raven Alliance held
 
 * Sarna: `Tellman article <https://www.sarna.net/wiki/Tellman>`_
 * Planet Type: Terrestrial

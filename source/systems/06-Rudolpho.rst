@@ -9,6 +9,8 @@ The Second Alliance Air Wing command regiment was stationed on Rudolpho until it
   :align: center
   :class: ow-image
 
+Status: Raven Alliance held
+
 * Sarna: `Rudolpho article <https://www.sarna.net/wiki/Rudolpho>`_
 * Planet Type: Terrestrial
 * Diameter: 14.100,0 km

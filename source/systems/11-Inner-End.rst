@@ -12,6 +12,10 @@ Clan Snow Raven  Gamma Galaxy, 100th and 121st Raven Battle Clusters are station
   :align: center
   :class: ow-image
 
+Status: Raven Alliance held
+    * `100th Raven Battle Cluster <https://www.sarna.net/wiki/100th_Raven_Battle_(Clan_Snow_Raven)>`_
+    * `121st Raven Battle Cluster <https://www.sarna.net/wiki/121st_Raven_Battle_(Clan_Snow_Raven)>`_
+
 * Sarna: `Inner End article <https://www.sarna.net/wiki/Inner_End>`_
 * Planet Type: Terrestrial
 * Diameter: 12.300,0 km

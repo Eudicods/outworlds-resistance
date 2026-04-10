@@ -1,30 +1,32 @@
-Jeppens
+Toten
 ------------------------------------
 
 This world is considered abandoned.
 
-.. image:: ../img/Jeppens_3151.webp
+.. image:: ../img/Toten_3151.webp
   :width: 75%
-  :alt: Jeppens map
+  :alt: Toten map
   :align: center
   :class: ow-image
 
-* Sarna: `Jeppens article <https://www.sarna.net/wiki/Jeppens>`_
+Status: Abandoned world
+
+* Sarna: `Toten article <https://www.sarna.net/wiki/Toten>`_
 * Planet Type: Terrestrial
-* Diameter: 11.700,0 km
-* Position in System: 4 (2,080 AU)
-* Time to Jump Point: 12,93 days
-* Star type: F7V (178 hours)
-* Year length: 3,2 Terran years
-* Day length: 23,0 hours
-* Surface Gravity: 0,97 g
+* Diameter: 12.000,0 km
+* Position in System: 3 (1,000 AU)
+* Time to Jump Point: 8,55 days
+* Star type: G3V (184 hours)
+* Year length: 1,4 Terran years
+* Day length: 27,0 hours
+* Surface Gravity: 0,68 g
 * Atmosphere: Breathable
 * Atmospheric Pressure: Standard
 * Atmospheric Composition: Nitrogen and Oxygen, plus trace gasses
-* Equatorial Temperature: 22C
-* Surface Water: 59\%
+* Equatorial Temperature: 36C
+* Surface Water: 29\%
 * Highest Native Life: Birds
-* Capital City: Aine
+* Capital City: Plevna
 * Population: 0
 * Socio-industrial Levels:
     * Regressed: Pre-industrial world
