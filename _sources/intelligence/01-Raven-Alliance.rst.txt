@@ -10,10 +10,10 @@ Clan Snow Raven Touman
     * `CSR Lynn McKenna <https://www.sarna.net/wiki/Lynn_McKenna_(Individual_Nightlord-class_WarShip)>`_ (`Nightlord class battleship <https://www.sarna.net/wiki/Nightlord>`_)
     * `CSR Marshal Ney <https://www.sarna.net/wiki/Marshal_Ney_(Individual_Essex-class_WarShip)>`_ (`Essex class destroyer <https://www.sarna.net/wiki/Essex>`_)
     * `CSR Mulhacen <https://www.sarna.net/wiki/Mulhac%C3%A9n>`_ (`Essex class destroyer <https://www.sarna.net/wiki/Essex>`_)
-    * `CSR Kutkh <https://www.sarna.net/wiki/Kutkh>`_ (`https://www.sarna.net/wiki/Fredasa_(WarShip_class)>`_)
+    * `CSR Kutkh <https://www.sarna.net/wiki/Kutkh>`_ (`<https://www.sarna.net/wiki/Fredasa_(WarShip_class)>`_)
     * `CSR Willian Adams <https://www.sarna.net/wiki/William_Adams_(Individual_Whirlwind-class_WarShip)>`_ (`Whirlwind class destroyer <https://www.sarna.net/wiki/Whirlwind>`_)
 
-* `Eden Rose Naval Reserve Star https://www.sarna.net/wiki/Eden_Rose_Naval_Reserve_Star_(Clan_Snow_Raven)>`_ (Dante)
+* `Eden Rose Naval Reserve Star <https://www.sarna.net/wiki/Eden_Rose_Naval_Reserve_Star_(Clan_Snow_Raven)>`_ (Dante)
     * `CSR Eden Rose <https://www.sarna.net/wiki/Eden_Rose>`_ (`Potemkin class troop cruiser <https://www.sarna.net/wiki/Potemkin>`_) (Dante)
     * `CSR Bonaventure <https://www.sarna.net/wiki/Bonaventure_(Individual_Potemkin-class_WarShip)>`_ (`Potemkin class troop cruiser <https://www.sarna.net/wiki/Potemkin>`_)
 
@@ -46,5 +46,5 @@ Alliance Military Corps
 * `4th Alliance Air Wing <https://www.sarna.net/wiki/4th_Alliance_Air_Wing>`_ (Risin/Coraines)
 * `5th Alliance Air Wing <https://www.sarna.net/wiki/5th_Alliance_Air_Wing>`_ (Suianheer/Dneiper)
 
-* `Avvellar Guard <https://www.sarna.net/wiki/Avellar_Guard>`_ (Alpheratz)
+* `Avellar Guard <https://www.sarna.net/wiki/Avellar_Guard>`_ (Alpheratz)
 * `3rd Long Road Legion <https://www.sarna.net/wiki/Long_Road_(program)>`_ (Kinkaid II)
