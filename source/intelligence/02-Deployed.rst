@@ -20,6 +20,11 @@ Clan Snow Raven Touman
     * `CSR Storm Crow <https://www.sarna.net/wiki/Storm_Crow>`_ (`Sovetskii Soyuz class heavy cruiser <https://www.sarna.net/wiki/Sovetskii_Soyuz>`_)
     * `CSR Raven's Nest <https://www.sarna.net/wiki/Raven%27s_Nest>`_ (`Thera class carrier <https://www.sarna.net/wiki/Raven%27s_Nest>`_)
 
+* Unknown (Epsilon Eridani)
+    * `CSR Van Speijk <https://www.sarna.net/wiki/Van_Speijk>`_ (`Luxor class heavy cruiser <https://www.sarna.net/wiki/Luxor_(WarShip_class)>`_)
+    * `CSR J. Swift <https://www.sarna.net/wiki/J._Swift>`_ (`Newgrange class yardship <https://www.sarna.net/wiki/Newgrange>`_)
+    * `CSR Alfred Redl <https://www.sarna.net/wiki/Alfred_Redl>`_ (`Bug-eye class surveillance ship <https://www.sarna.net/wiki/Bug-Eye>`_)
+
 * `Beta Galaxy <https://www.sarna.net/wiki/Beta_Galaxy_(Clan_Snow_Raven)>`_ (Kirbyville)
     * `5th Raven Stoop Cluster <https://www.sarna.net/wiki/5th_Raven_Stoop_(Clan_Snow_Raven)>`_ (Kirbyville)
     * `9th Raven Wing Cluster <https://www.sarna.net/wiki/9th_Raven_Wing_(Clan_Snow_Raven)>`_ (Sterlington)
