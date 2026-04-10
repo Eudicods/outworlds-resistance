@@ -1,7 +1,7 @@
 Intelligence
 ====================================
 
-.. image:: img/Outworlds-Wastes.webp
+.. image:: ../img/Outworlds-Wastes.webp
   :width: 65%
   :alt: Outworlds Wastes logo
   :align: center
