@@ -8,7 +8,7 @@ Systems
   :class: ow-image
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Secession Systems:
 
    01-Baliggora.rst
@@ -18,7 +18,7 @@ Systems
    05-Valasha.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Border Systems:
 
    06-Rudolpho.rst
@@ -29,11 +29,12 @@ Systems
    11-Inner-End.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Empty Systems:
 
    12-Kaldu.rst
-   13-Dreadlord.rst
-   14-Jeppens.rst
-   15-Ugland.rst
-   16-Toten.rst
+   13-Finse.rst
+   14-Dreadlord.rst
+   15-Jeppens.rst
+   16-Ugland.rst
+   17-Toten.rst

@@ -9,7 +9,13 @@ Raldamax was one of the worlds that left the Outworlds Alliance after Clan Snow 
   :align: center
   :class: ow-image
 
+Intelligence 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Status: Seceded
+
+Planetary Data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Sarna: `Raldamax article <https://www.sarna.net/wiki/Raldamax>`_
 * Planet Type: Terrestrial

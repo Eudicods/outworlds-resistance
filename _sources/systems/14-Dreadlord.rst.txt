@@ -11,7 +11,13 @@ The Draconis Combine recovered information about the Federated Suns project when
   :align: center
   :class: ow-image
 
+Intelligence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Status: Abandoned world
+
+Planetary Data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Sarna: `Dreadlord article <https://www.sarna.net/wiki/Dreadlord>`_
 * Planet Type: Terrestrial
