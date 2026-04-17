@@ -9,7 +9,13 @@ This world is considered abandoned.
   :align: center
   :class: ow-image
 
+Intelligence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Status: Abandoned world
+
+Planetary Data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Sarna: `Kaldu article <https://www.sarna.net/wiki/Kaldu>`_
 * Planet Type: Terrestrial

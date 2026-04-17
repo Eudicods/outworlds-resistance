@@ -11,7 +11,13 @@ He was being monitored by the Raven Watch for his ties to anti-Raven groups.
   :align: center
   :class: ow-image
 
+Intelligence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Status: Raven Alliance held
+
+Planetary Data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Sarna: `Loparri article <https://www.sarna.net/wiki/Loparri>`_
 * Planet Type: Terrestrial

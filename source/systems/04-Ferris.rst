@@ -12,9 +12,15 @@ The facility is attempting to rebuild its aerospace fighter training program.
   :align: center
   :class: ow-image
 
+Intelligence 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Status: Seceded
 
 Bonus: *Train* at half cost
+
+Planetary Data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Sarna: `Ferris article <https://www.sarna.net/wiki/Ferris_(OA)>`_
 * Planet Type: Terrestrial

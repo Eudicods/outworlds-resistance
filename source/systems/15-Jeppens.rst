@@ -9,7 +9,13 @@ This world is considered abandoned.
   :align: center
   :class: ow-image
 
+Intelligence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Status: Abandoned world
+
+Planetary Data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Sarna: `Jeppens article <https://www.sarna.net/wiki/Jeppens>`_
 * Planet Type: Terrestrial
