@@ -18,6 +18,33 @@ Forces:
 
 * `2nd Alliance Air Wing <https://www.sarna.net/wiki/2nd_Alliance_Air_Wing>`_ (Deployed)
 
+Resistance Level: 0
+
+Bounty Levels:
+
+* None
+
+Recruiting 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The following units can be purchased:
+
+============ ==============         ===============
+Level        Unit                   Cost
+============ ==============         ===============
+0            Flatbed Truck          ₵27,300
+0            Flatbed Truck (Armor)  ₵51,450
+0            Foot Squad (MG)        ₵218,244
+0            Foot Squad (Rifle)     ₵127,530
+0            Foot Squad (LRM)       ₵234,201
+0            Foot Squad (SRM)       ₵292,623
+1            Flatbed Truck (SRM)    ₵69,300
+1            Flatbed Truck (Mortar) ₵99,750
+1            Flatbed Truck (LRM)    ₵162,750
+============ ==============         ===============
+
+You can make purchases at the level corresponding to the smaller of your reputation and the local system resistance level.
+
 Planetary Data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
