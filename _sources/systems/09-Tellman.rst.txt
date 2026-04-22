@@ -7,7 +7,7 @@ Tellman IV is the site of the Day of Vengeance, an important battle in the Reuni
 `Eustace Avellar <https://www.sarna.net/wiki/Eustace_Avellar>`_ disappeared en-route to Tellman on his morale building tour.
 He was being monitored by the Raven Watch for his ties to anti-Raven groups.
 
-.. image:: ../img/Tellman_3151.webp
+.. image:: ../img/Tellman_3152.webp
   :width: 75%
   :alt: Tellman map
   :align: center

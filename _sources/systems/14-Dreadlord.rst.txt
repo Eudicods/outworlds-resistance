@@ -5,7 +5,7 @@ This world is considered abandoned.
 In 3136, a MIIO team from the Federated Suns created a secret listening post to monitor Clan Snow Raven fleet transmissions.
 The Draconis Combine recovered information about the Federated Suns project when they controlled New Avalon.
 
-.. image:: ../img/Dreadlord_3151.webp
+.. image:: ../img/Dreadlord_3152.webp
   :width: 75%
   :alt: Dreadlord map
   :align: center

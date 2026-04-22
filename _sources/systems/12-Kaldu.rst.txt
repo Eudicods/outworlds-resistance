@@ -3,7 +3,7 @@ Kaldu
 
 This world is considered abandoned.
 
-.. image:: ../img/Kaldu_3151.webp
+.. image:: ../img/Kaldu_3152.webp
   :width: 75%
   :alt: Kaldu map
   :align: center

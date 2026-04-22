@@ -3,7 +3,7 @@ Hazelhurst
 
 The Alliance Naval Star, 3rd Raven Auxiliaries, and 11th Raven Wing Cluster are stationed in Hazelhurst.
 
-.. image:: ../img/Hazelhurst_3151.webp
+.. image:: ../img/Hazelhurst_3152.webp
   :width: 75%
   :alt: Hazelhurst map
   :align: center

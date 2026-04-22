@@ -3,7 +3,7 @@ Ugland
 
 This world is considered abandoned.
 
-.. image:: ../img/Ugland_3151.webp
+.. image:: ../img/Ugland_3152.webp
   :width: 75%
   :alt: Ugland map
   :align: center

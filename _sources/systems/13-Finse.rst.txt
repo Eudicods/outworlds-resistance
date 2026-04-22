@@ -3,7 +3,7 @@ Finse
 
 This world is considered abandoned.
 
-.. image:: ../img/Finse_3151.webp
+.. image:: ../img/Finse_3152.webp
   :width: 75%
   :alt: Finse map
   :align: center

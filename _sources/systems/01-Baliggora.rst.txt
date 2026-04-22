@@ -3,7 +3,7 @@ Baliggora
 
 Baliggora was one of the worlds that left the Outworlds Alliance after Clan Snow Raven attacked civilian ships over Dante.
 
-.. image:: ../img/Baliggora_3151.webp
+.. image:: ../img/Baliggora_3152.webp
   :width: 75%
   :alt: Baliggora map
   :align: center
