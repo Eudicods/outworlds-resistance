@@ -6,7 +6,7 @@ Ferris was one of the worlds that left the Outworlds Alliance after Clan Snow Ra
 A former Alliance Military Corps training facility for MechWarriors, tankers, and conventional infantry is on Ferris.
 The facility is attempting to rebuild its aerospace fighter training program.
 
-.. image:: ../img/Ferris_3151.webp
+.. image:: ../img/Ferris_3152.webp
   :width: 75%
   :alt: Ferris map
   :align: center

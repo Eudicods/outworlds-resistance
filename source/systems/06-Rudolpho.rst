@@ -3,7 +3,7 @@ Rudolpho
 
 The Second Alliance Air Wing command regiment was stationed on Rudolpho until it was assigned to the Clan Snow Raven Terran task force.
 
-.. image:: ../img/Rudolpho_3151.webp
+.. image:: ../img/Rudolpho_3152.webp
   :width: 75%
   :alt: Rudolpho map
   :align: center

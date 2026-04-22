@@ -5,7 +5,7 @@ Loparri was targeted by General Forlough for seek-and-destroy missions to weaken
 `Eustace Avellar <https://www.sarna.net/wiki/Eustace_Avellar>`_ disappeared after visiting  Loparri and Paxton on his morale building tour.
 He was being monitored by the Raven Watch for his ties to anti-Raven groups. 
 
-.. image:: ../img/Loparri_3151.webp
+.. image:: ../img/Loparri_3152.webp
   :width: 75%
   :alt: Loparri map
   :align: center

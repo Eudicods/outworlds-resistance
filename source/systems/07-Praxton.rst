@@ -6,7 +6,7 @@ Praxton Fusion Products Limited, which produces fusion engines for BattleMechs, 
 `Eustace Avellar <https://www.sarna.net/wiki/Eustace_Avellar>`_ disappeared after visiting  Loparri and Paxton on his morale building tour.
 He was being monitored by the Raven Watch for his ties to anti-Raven groups.
 
-.. image:: ../img/Praxton_3151.webp
+.. image:: ../img/Praxton_3152.webp
   :width: 75%
   :alt: Praxton map
   :align: center

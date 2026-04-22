@@ -3,7 +3,7 @@ Jeppens
 
 This world is considered abandoned.
 
-.. image:: ../img/Jeppens_3151.webp
+.. image:: ../img/Jeppens_3152.webp
   :width: 75%
   :alt: Jeppens map
   :align: center

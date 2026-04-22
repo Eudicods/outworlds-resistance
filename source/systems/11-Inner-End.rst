@@ -6,7 +6,7 @@ Clan Snow Raven conquered Inner End, along with Haynesville and Diboll, in 3144.
 
 Clan Snow Raven  Gamma Galaxy, 100th and 121st Raven Battle Clusters are stationed on Inner End.
 
-.. image:: ../img/Inner_End_3151.webp
+.. image:: ../img/Inner_End_3152.webp
   :width: 75%
   :alt: Inner End map
   :align: center

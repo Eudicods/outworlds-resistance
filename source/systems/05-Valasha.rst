@@ -3,7 +3,7 @@ Valasha
 
 Valasha was one of the worlds that left the Outworlds Alliance after Clan Snow Raven attacked civilian ships over Dante.
 
-.. image:: ../img/Valasha_3151.webp
+.. image:: ../img/Valasha_3152.webp
   :width: 75%
   :alt: Valasha map
   :align: center

@@ -3,7 +3,7 @@ Toten
 
 This world is considered abandoned.
 
-.. image:: ../img/Toten_3151.webp
+.. image:: ../img/Toten_3152.webp
   :width: 75%
   :alt: Toten map
   :align: center
