@@ -5,7 +5,6 @@ Intelligence
   :width: 65%
   :alt: Outworlds Wastes logo
   :align: center
-  :class: ow-image
 
 .. toctree::
    :maxdepth: 2
