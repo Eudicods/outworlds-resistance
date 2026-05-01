@@ -39,7 +39,7 @@ The following optional rules are used.
 
   For Alpha Strike, calculate repair costs as 50% of the unit’s C-bill cost, multiplied by the percentage of internal structure bubbles damaged. For example, if a unit has only 1 out of 3 structure bubbles remaining, pay 2 / 3 = 66,7% of 50% of the C-bill cost of the unit, or 33,3% of the C-bill cost of the unit. It would cost 3.756.752 C-bills to *repair* a Wolverine WVR-7D damaged in this way, instead of 2.817.564 C-bills per the standard *repair* rules. 
 
-* **Omni Repair**: Omni units cost an extra 20% above the cost of their components due to the complexity of assembling an Omni unit. Multiply the cost of the unit by 1 / 120%, or 83,33% when *repairing* Omni units. Do not modify the cost to *replace* Omni units.
+* **Omni Repair**: Calculate the *repair* costs without the Omni Conversion Cost. OmniMechs and OmniVehicles cost 125% of the base cost of the materials to construct due to their complexity. Commanders may reduce their *repair* costs for Omni units by 20%. For example, a Timber Wolf Prime would cost 4.846.625 C-bills to repair instead of 6.058.281 C-bills. If *Granular Repair* is in effect, then apply this adjustment to the the cost per internal section or structure bubble. This modification does not apply to the cost *replace* the unit when *destroyed*. 
 
 * **Rearm**: Ammunition must be replenished. *BattleTech: TechManual* provides cost per ton for ammunition. When not purchasing ammunition by the ton, it costs 35,000 C-bills for standard ammo and 175.000 C-bills for specialty ammo to rearm a unit. In Alpha Strike, apply a -1 modifier to damage at all brackets during a scenario if a unit is not rearmed.
 
