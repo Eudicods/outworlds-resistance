@@ -63,7 +63,7 @@ Planetary Data
 * Diameter: 12.705,0 km
 * Position in System: 1 (0,200 AU)
 * Time to Jump Point: 3,00 days
-* Star type: M1V (202 hours)
+* Star type: M1V (202 hours/8,41 days)
 * Recharge station: Nadir
 * Year length: 0,7 Terran years
 * Day length: 25,0 hours

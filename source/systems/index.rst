@@ -7,6 +7,8 @@ Systems
   :align: center
   :class: ow-image
 
+The following intelligence reports are available for systems in the operational area.
+
 .. toctree::
    :maxdepth: 1
    :caption: Secession Systems:

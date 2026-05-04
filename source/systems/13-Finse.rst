@@ -22,7 +22,7 @@ Planetary Data
 * Diameter: 11.100,0 km
 * Position in System: 1 (0,280 AU)
 * Time to Jump Point: 4,61 days
-* Star type: K3V (194 hours)
+* Star type: K3V (194 hours/8,08 days)
 * Year length: 0,8 Terran years
 * Day length: 20,0 hours
 * Surface Gravity: 0,74 g

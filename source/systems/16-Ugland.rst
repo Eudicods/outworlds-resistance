@@ -22,7 +22,7 @@ Planetary Data
 * Diameter: 11.700,0 km
 * Position in System: 3 (1,200 AU)
 * Time to Jump Point: 12,02 days
-* Star type: F8V (179 hours)
+* Star type: F8V (179 hours/7,46 days)
 * Year length: 1,7 Terran years
 * Day length: 20,0 hours
 * Surface Gravity: 0,88 g
