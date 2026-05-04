@@ -19,7 +19,7 @@ As your raids intensify, local support will grow, expanding your access to milit
 
 This campaign uses the `Outworlds Wastes <https://outworlds-wastes.jeremylt.org/>`_ rules, with the modifications given in :doc:`the rules supplement </rules/index>`.
 An overview of the current worlds in the operational area are given in the :doc:`system reports </systems/index>`.
-Finally, the current intelligence on Raven Alliance forces operating in the region are given in the :doc:`intelligence report </intelligence/index>`.
+Finally, the current intelligence on Raven Alliance and resistance forces operating in the region are given in the :doc:`intelligence report </intelligence/index>`.
 
 .. toctree::
    :maxdepth: 1

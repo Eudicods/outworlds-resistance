@@ -64,10 +64,10 @@ Planetary Data
 * Sarna: `Valasha article <https://www.sarna.net/wiki/Valasha>`_
 * Planet Type: Terrestrial
 * Diameter: 10.800,0 km
-* Position in System: 1 (3,570 AU)
-* Time to Jump Point: 39.38 days
-* Star type: A3V (164 hours)
-* Year length: 1,1 Terran years
+* Position in System: 1 (0.80 AU)
+* Time to Jump Point: 2,34 days
+* Star type: A3V (164 hours/6,83 days)
+* Year length: 0,4 Terran years
 * Day length: 25,0 hours
 * Surface Gravity: 0,61 g
 * Atmosphere: Breathable

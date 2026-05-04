@@ -62,7 +62,7 @@ Planetary Data
 * Diameter: 10.800,0 km
 * Position in System: 1 (0,160 AU)
 * Time to Jump Point: 2,85 days
-* Star type: M2V (203 hours)
+* Star type: M2V (203 hours/8,456 days)
 * Year length: 0,6 Terran years
 * Day length: 23,0 hours
 * Surface Gravity: 0,61 g

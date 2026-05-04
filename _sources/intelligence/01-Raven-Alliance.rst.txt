@@ -1,7 +1,7 @@
-Raven Alliance Units
+Raven Alliance Forces
 ------------------------------------
 
-The following units are in the Raven Alliance.
+The following forces are in the Raven Alliance.
 
 Clan Snow Raven Touman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

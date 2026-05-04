@@ -6,7 +6,7 @@ This campaign uses the *Force Management* rules for `Outworlds Wastes <https://o
 Modified Rules
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* **Train**: Pay 5.000.000 C-bills multiplied by the difference in BV skill multiplier to improve a unit's skill levels.
+* **Train**: Pay 5.000.000 C-bills multiplied by the difference in BV skill multiplier to improve a unit's skill levels. Only a single skill can be improved by a single level at a time, and *training* requires 7 days to complete.
 
 * **Refit**:  Commanders may not *refit* any units.
 

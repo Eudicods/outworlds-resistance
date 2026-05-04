@@ -6,7 +6,7 @@ Rules Supplement
   :alt: Outworlds Wastes logo
   :align: center
 
-The Outworlds Resistance campaign uses the `Outworlds Wastes <https://outworlds-wastes.jeremylt.org>`_ rules with the following modifications.
+The Outworlds Resistance campaign uses the `Outworlds Wastes <https://outworlds-wastes.jeremylt.org>`_ rules with the following modifications and additions.
 
 .. toctree::
    :maxdepth: 2
@@ -15,3 +15,4 @@ The Outworlds Resistance campaign uses the `Outworlds Wastes <https://outworlds-
    01-Force-Construction.rst
    02-Force-Management.rst
    03-Bounty-Resistance.rst
+   04-Time.rst

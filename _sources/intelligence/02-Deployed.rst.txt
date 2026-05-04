@@ -1,7 +1,7 @@
-Deployed Units
+Deployed Forces
 ------------------------------------
 
-The following units are deployed, in whole or in part, as part of Clan Snow Raven's Terran task force.
+The following forces are deployed, in whole or in part, as part of Clan Snow Raven's Terran task force.
 
 Clan Snow Raven Touman
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

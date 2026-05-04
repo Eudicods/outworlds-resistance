@@ -67,7 +67,7 @@ Planetary Data
 * Diameter: 14.101,0 km
 * Position in System: 2 (0,630 AU)
 * Time to Jump Point: 7,03 days
-* Star type: G6V (187 hours)
+* Star type: G6V (187 hours/7,79 days)
 * Year length: 1,1 Terran years
 * Day length: 25,0 hours
 * Surface Gravity: 1,04 g
@@ -78,7 +78,7 @@ Planetary Data
 * Surface Water: 37\%
 * Highest Native Life: Reptiles
 * Capital City: Chicago
-* Population: 12.432.343
+* Population: 20.992.494
 * Socio-industrial Levels:
     * C: Moderately advanced world
     * B: Moderately industrialized
