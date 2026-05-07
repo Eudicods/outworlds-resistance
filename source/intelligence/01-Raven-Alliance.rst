@@ -1,4 +1,4 @@
-Raven Alliance Forces
+Garrison Forces
 ------------------------------------
 
 The following forces are in the Raven Alliance.
