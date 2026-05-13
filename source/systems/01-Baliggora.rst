@@ -3,6 +3,8 @@ Baliggora
 
 Baliggora was one of the worlds that left the Outworlds Alliance after Clan Snow Raven attacked civilian ships over Dante.
 
+Baliggora was the former headquarters of Explorer Corps' Spinward Operations Area.
+
 .. image:: ../img/Baliggora_3152.webp
   :width: 75%
   :alt: Baliggora map
