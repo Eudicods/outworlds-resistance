@@ -3,6 +3,9 @@ Raldamax
 
 Raldamax was one of the worlds that left the Outworlds Alliance after Clan Snow Raven attacked civilian ships over Dante.
 
+The Explorer Corps base on Raldamax, Dneiper, and Coraines were shut down in 3052, which was devastating for the local economies.
+The base on Risin was spared until the dissolution of Explorer Corps by 3152.
+
 .. image:: ../img/Raldamax_3152.webp
   :width: 75%
   :alt: Raldamax map
