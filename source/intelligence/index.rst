@@ -12,6 +12,7 @@ Intelligence reports are available on the location of Raven Alliance and resista
    :maxdepth: 2
    :caption: Military Deployments:
 
-   01-Raven-Alliance.rst
-   02-Deployed.rst
-   03-Resistance.rst
+   01-Notable-Events.rst
+   02-Raven-Alliance.rst
+   03-Deployed.rst
+   04-Resistance.rst
