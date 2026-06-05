@@ -4,12 +4,15 @@ Notable Events
 Resistance to Clan Snow Raven forces has had intermittent support since Clan Snow Raven appeared in the Outworlds Alliance.
 Below is a timeline of notable events between Clan Snow Raven and the Outworlds Alliance.
 
+Existing Problems
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 * 3056: Neil Avellar abdicated the Presidency to his son Mitchell due to dissatisfaction with economic conditions in the Outworlds Alliance. (Handbook: Major Periphery States p146)
+
+* 3058-3062: Attributed to militant members of the Omniss sect, acts of sabotage against military manufactures and centers of heavy industry start increasing through the Outworlds Alliance. Dante, which has historically held itself aloof from the Outworlds Alliance, is a center of Omniss support. (Handbook: Major Periphery States p137, p148)
 
 First Contact with Clan Snow Raven
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* 3058-3062: Attributed to militant members of the Omniss sect, acts of sabotage against military manufactures and centers of heavy industry start increasing through the Outworlds Alliance. Dante, which has historically held itself aloof from the Outworlds Alliance, is a center of Omniss support. (Handbook: Major Periphery States p137, p148)
 
 * 22 November 3063: Forces from Clan Snow Raven and the 5th Alliance Air Wing clashed in the Tresspass System. Clan Snow Raven ultimately loses a Trial of Possession for a JumpShip belonging to the 5th Alliance Air Wing and a Titan DropShip belonging to Clan Snow Raven. (Shrapnel 11)
 
@@ -83,7 +86,7 @@ Palmyra Disaster
 3rd Star League and the ilClan
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* 3050/3051: Two of Clan Snow Ravens naval stars, Ice Storm Naval Star and Conqueror Naval Star, as well as forces from Beta Galaxy, 2nd Alliance Air Wing, 1st Long Road Legion, 2nd Long Road Legion, Alliance Borderers, and Alliance Grenadiers departed the Raven Alliance to support the new Star League. (ilKahn's Eyes Only)
+* 3050/3051: Two of Clan Snow Raven's naval stars, Ice Storm Naval Star and Conqueror Naval Star, as well as forces from Beta Galaxy, 2nd Alliance Air Wing, 1st Long Road Legion, 2nd Long Road Legion, Alliance Borderers, and Alliance Grenadiers departed the Raven Alliance to support the new Star League. (ilKahn's Eyes Only)
 
 * March 3151: During a morale-building tour of Raven Alliance worlds, Eustance Avellar's ship failed to arrive at its scheduled stop at Tellman IV after visiting Loparri and Praxton. Eustance Avellar had been under Raven Watch surveillance for his involvement with anti-Raven political groups. His brother Christián Avellar believes he is still alive in the Outworlds Wastes (ilKahn's Eyes Only p155)
 
