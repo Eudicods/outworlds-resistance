@@ -61,7 +61,7 @@ Tensions with Neighbors
 
 * 3076: Maya Avellar, heir apparent of the Outworlds Alliance, exiled herself after failing to sway public and political opinion to prevent tighter alignment between Clan Snow Raven and the Outworlds Alliance. She swore to return if the people decided the were ready to resume the path of Julius Santiago Avellar, the first president of the Outworlds Alliance. Her location is unknown. (Masters and Minions p161)
 
-* 20 January 3081: A 4th convoy of immigrants were jumped out of the Federated Suns system of Altoona. The final destination was not disclosed, but these convoys were fleeing the changes in the Outworlds Alliance. (Jihad: Final Reckoning p38)
+* 20 January 3081: A 4th convoy of immigrants jumped out of the Federated Suns system of Altoona. The final destination was not disclosed, but these convoys are believed to be full of people fleeing the changes in the Outworlds Alliance. (Jihad: Final Reckoning p38)
 
 Raven Alliance Formed
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -70,18 +70,18 @@ Raven Alliance Formed
 
 * Late 3083: Baliggoria, Raldamax, and Valasha secede from the Outworlds Alliance due to the formation of the Raven Alliance. (The Wars of Reaving p179)
 
-* 3084: Ferris and Trimaldix also leave the Outworlds Alliance. (The Wars of Reaving p149)
+* 3084: Ferris and Trimaldix also leave the Outworlds Alliance. (The Wars of Reaving p179)
 
 * 3085: Clan Snow Raven restructured the agreement that formed the Raven Alliance, resulting in the Kahnship elevated above the office of the Outworlds Alliance president. (Era Report: 3145 p74)
 
 * 3135: Christián Avellar succeeds his father Hugo Avellar as president of the Raven Alliance after Hugo Avellar commits suicide. His younger brother, Eustance Avellar, was expected to suceed Hugo Avellar; however the Raven Council selected Christián due to Eustance's rumored involvement with anti-Raven organizations. (Era Report: 3145 p110)
 
-* 3145: Outworlds Alliance citizens question the increased pressure to supply war material to Clan Snow Raven. (Field Manual: 3145 p150)
-
 Palmyra Disaster
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * 25 June 3144: Clan Snow Raven aids the Draconis Combine by reneging on their agreement of support to the Federated Suns. This results in the death of First Prince Caleb Davion by the Draconis Combine. The general public was broadly sympathetic to the Federated Suns due to close cultural ties, Federated Suns military support during the Reunification Wars, and fear of the Draconis Combine. The support for the Federated Suns by pro-Davion group The Friends of Dawn was ridiculed by saKahn Iqbal Lankenau, who dismissed concerns due to Clan Snow Raven's superior military might. Graffiti on the Clan Snow Raven genetic repository during these tensions stated "You can kill us from the sky. But who will feed you then, my guy?" (ilKahn's Eyes Only p119)
+
+* 3145: Outworlds Alliance citizens question the increased pressure to supply war material to Clan Snow Raven. (Field Manual: 3145 p150)
 
 3rd Star League and the ilClan
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -92,6 +92,6 @@ Palmyra Disaster
 
 * 3151: Clan Snow Raven has two main schools of thought for handling simmering tensions with Outworld Alliance citizens. The approach supported by Kahn McKenna and Beta Galaxy and Conqueror Naval Star Commander Crady Magnus is to ensure the Outworlds Alliance citizens feel they have a genuine stake in the Raven Alliance. The approach supported by the Sukhanov Bloodhouse, and intermittently by saKahn Lqxal Lankenau, is to treat collaboration with the Outworlds Alliance as an admission of weakness and an insult to the memory of the SLDF. Careful control of public perceptions has kept these tensions with Outworlds Alliance citizens largely at bay. (ilKahn's Eyes Only p119)
 
-* Clan Snow Rave invades and takes Miligan from the Federated Suns while wearing the Cameron Star of the Star League. (Domainions Divided p74)
+* 3152: Clan Snow Raven invades and takes Miligan from the Federated Suns while wearing the Cameron Star of the Star League. (Domainions Divided p74)
 
 * 13 August 3152: Sabotage and tensions between Alliance Military Corps and Clan Snow Raven forces has become a commonplace problem, resulting in defections in the joint Clan Snow Raven and Outworlds Military Corps task force supporting the new Star League. One group of defectors joined the reformed Gray Death Legion. (Traveling Light)
